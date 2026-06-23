@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riya Goel</h1>
 <h3 align="center">Passionate to learn more and more about Tech.</h3>
 
-- 🌱 I’m currently learning **Web Development.**
-
-- 🔭 I’m a Student at **UIETH, Panjab University.**
+- 🔭 I’m a Student at **Chandigarh College of Engineering and Technology.**
 
 - 🌱 I’m on the way to **Improve my technical as well as problem solving skills more and more.**
 
